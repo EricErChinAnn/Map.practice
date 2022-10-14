@@ -1,0 +1,9 @@
+.chart{
+    flex-basis: 100%;
+    flex: 1;
+}
+
+.chartContain{
+    display:flex;
+    flex-wrap: wrap;
+}
